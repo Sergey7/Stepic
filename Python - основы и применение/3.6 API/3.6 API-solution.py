@@ -1,8 +1,8 @@
 import requests
 import json
 
-client_id = 'db311cfe37ec4bc74a61'
-client_secret = 'ba1d22427d386b0b79ce4403c063b2ec'
+client_id = '****************'
+client_secret = '******************'
 
 r = requests.post("https://api.artsy.net/api/tokens/xapp_token",
                   data={
